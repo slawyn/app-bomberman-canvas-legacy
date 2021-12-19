@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\db979afb956243e92a0a66436eabd521\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9e663fea509397737f248a7423fa4b79\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\bbd29bb9c29f1d709d391cc3f640d176\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\d02b122c16f5cf1c47a365fafc75fb0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\f0cb91f2cf3f1e4dd6efdfe4524b15e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\46dca9fb5c59f92bf78d2422ac378fdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\86f8fcee5d0bc1347fd417a04cf505e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\ebfd0db3a42a5f950018f9373b703e3e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\52c51920e6093391b1d6806eede44dca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9edca1e5c5ad827bf4ad515ef55eef39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\c1ddc3f9c1baf22d6820817dd66b5a75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\01050468b91745e05b9b593acbe58db2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:10:5-89
+	android:required
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:10:64-87
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:10:19-63
+application
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9e663fea509397737f248a7423fa4b79\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9e663fea509397737f248a7423fa4b79\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#aia-compat-api-min-version
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:19:9-21:33
+	android:value
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:21:13-30
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:20:13-54
+activity#main.wrapper.InitialActivity
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:22:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:22:64-101
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:22:19-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:example.com+data:pathPattern:/.*+data:scheme:https
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:24:13-33:29
+	android:order
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:24:28-45
+action#android.intent.action.VIEW
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:26:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:27:27-73
+data
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:29:17-32:46
+	android:host
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:30:21-47
+	android:scheme
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:32:21-43
+	android:pathPattern
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:31:21-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:36:27-74
+receiver#main.Essentials.Client
+ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:40:9-59
+	android:name
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml:40:19-56
+uses-sdk
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\db979afb956243e92a0a66436eabd521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\db979afb956243e92a0a66436eabd521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9e663fea509397737f248a7423fa4b79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9e663fea509397737f248a7423fa4b79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\bbd29bb9c29f1d709d391cc3f640d176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\bbd29bb9c29f1d709d391cc3f640d176\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\d02b122c16f5cf1c47a365fafc75fb0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\d02b122c16f5cf1c47a365fafc75fb0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\f0cb91f2cf3f1e4dd6efdfe4524b15e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\f0cb91f2cf3f1e4dd6efdfe4524b15e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\46dca9fb5c59f92bf78d2422ac378fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\46dca9fb5c59f92bf78d2422ac378fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\86f8fcee5d0bc1347fd417a04cf505e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\86f8fcee5d0bc1347fd417a04cf505e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\ebfd0db3a42a5f950018f9373b703e3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\ebfd0db3a42a5f950018f9373b703e3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\52c51920e6093391b1d6806eede44dca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\52c51920e6093391b1d6806eede44dca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9edca1e5c5ad827bf4ad515ef55eef39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\9edca1e5c5ad827bf4ad515ef55eef39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\c1ddc3f9c1baf22d6820817dd66b5a75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\c1ddc3f9c1baf22d6820817dd66b5a75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\01050468b91745e05b9b593acbe58db2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Unixt\.gradle\caches\transforms-2\files-2.1\01050468b91745e05b9b593acbe58db2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unixt\Downloads\bomberman_app-20190818T201149Z-001\bomberman_app\app\src\main\AndroidManifest.xml

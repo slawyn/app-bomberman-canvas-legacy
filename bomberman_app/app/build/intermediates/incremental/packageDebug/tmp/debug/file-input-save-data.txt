@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Oct 07 04:48:50 CEST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Unixt\\Downloads\\bomberman_app-20190818T201149Z-001\\bomberman_app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

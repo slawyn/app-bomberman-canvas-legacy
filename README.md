@@ -1,1 +1,1 @@
-# app-bomberman-canvas-legacy
+Phone app. Bluetooth based multiplayer bomberman-kind of game. Uses canvas for rendering. Older Version with movement locked to framerate.
